@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M74VHC1GT08DFT2G
+D Wide Operating Vcc Range; High Speed: tPD = 3.5 ns (Typ) at VCC = 5 V; Low Power Dissipation: ICC = 1A (Max) at TA = 25C; TTL-Compatible Inputs: VIL = 0.8 V; VIH = 2.0 V; CMOS-Compatible Outputs: VOH > 0.8 VCC ; VOL < 0.1 VCC @Load; Power Down Protection Provided on Inputs and Outputs; Balanced Propagation Delays; Pin and Function Compatible with Other Standard Logic Families; Chip Complexity: FETs =  100; Pb-Free Packages are Available
+K
+F https://www.onsemi.com/pub/Collateral/MC74VHC1G08-D.PDF
+$ENDCMP
+#
+#End Doc Library

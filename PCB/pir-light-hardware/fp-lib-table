@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "M74VHC1GT08D") (type "KiCad") (uri "${KIPRJMOD}/libraries/LIB_M74VHC1GT08DFT2G") (options "") (descr ""))
+	(lib (name "LMV331IDCKR") (type "KiCad") (uri "${KIPRJMOD}/libraries/LIB_LMV331IDCKR") (options "") (descr ""))
+	(lib (name "GT36528") (type "KiCad") (uri "${KIPRJMOD}/libraries/LIB_GT36528") (options "") (descr ""))
+)
