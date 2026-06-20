@@ -8,4 +8,5 @@
 	(lib (name "1N5819HWQ-7-F") (type "KiCad") (uri "${KIPRJMOD}/libraries/LIB_1N5819HWQ-7-F") (options "") (descr ""))
 	(lib (name "LED-ROD") (type "KiCad") (uri "${KIPRJMOD}/libraries/LIB_LED-ROD") (options "") (descr ""))
 	(lib (name "AS312") (type "KiCad") (uri "${KIPRJMOD}/libraries/LIB_AS312") (options "") (descr ""))
+	(lib (name "ZH-CONNECTOR") (type "KiCad") (uri "${KIPRJMOD}/libraries/LIB_ZH-CONNECTOR") (options "") (descr ""))
 )
