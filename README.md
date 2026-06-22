@@ -10,5 +10,5 @@ Additionally, the design incorporates sensor hold and light-feedback compensatio
 # Schematic
 
 <p align="center">
-  <img src="C:\Users\trzmi\Desktop\Projekty\GITHUB\PIR-Light-Hardware\documentation\schematic-snapshot.png" alt="PIR Motion Light Module Schematic Snapshot" width="900">
+  <img src="documentation/schematic-snapshot.png" alt="PIR Motion Light Module Schematic Snapshot" width="900">
 </p>
