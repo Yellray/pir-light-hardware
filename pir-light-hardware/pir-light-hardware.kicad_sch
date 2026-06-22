@@ -4363,7 +4363,8 @@
 		(end 263.525 130.81)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash_dot_dot)
+			(color 130 130 130 1)
 		)
 		(fill
 			(type none)
@@ -4381,6 +4382,19 @@
 			(type none)
 		)
 		(uuid "17c7aad2-b042-41b4-8ba1-82245858efc3")
+	)
+	(rectangle
+		(start 249.301 114.3)
+		(end 257.556 120.65)
+		(stroke
+			(width 0)
+			(type dot)
+			(color 141 160 180 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "2527a7f8-439a-4e8b-84ff-be2db50cb490")
 	)
 	(rectangle
 		(start 30.48 39.37)
@@ -4491,6 +4505,19 @@
 		(uuid "a0762e86-abbf-4ca5-8df4-ff040030032c")
 	)
 	(rectangle
+		(start 113.665 80.264)
+		(end 120.015 98.552)
+		(stroke
+			(width 0)
+			(type dot)
+			(color 141 160 180 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "dfd88236-d4bf-4dd8-9205-57f52abcb98a")
+	)
+	(rectangle
 		(start 230.505 70.485)
 		(end 242.57 92.075)
 		(stroke
@@ -4504,7 +4531,7 @@
 	)
 	(text "DIODE"
 		(exclude_from_sim no)
-		(at 184.785 121.92 0)
+		(at 184.658 122.682 0)
 		(effects
 			(font
 				(size 0.762 0.762)
@@ -4514,6 +4541,20 @@
 			)
 		)
 		(uuid "0452829a-aee5-45a2-a55a-2f3ee2b1af05")
+	)
+	(text "Note 2*"
+		(exclude_from_sim no)
+		(at 114.554 97.028 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.1524)
+				(bold yes)
+				(color 145 194 119 1)
+			)
+			(justify left top)
+		)
+		(uuid "090d00eb-e029-458c-b257-85541316972c")
 	)
 	(text "TO CHANGE"
 		(exclude_from_sim no)
@@ -4554,6 +4595,20 @@
 		)
 		(uuid "370e6da8-8eb6-40b9-9d33-0b3ba15a5607")
 	)
+	(text "1* If you plan to connect modules in a chain, populate this component only on the first and last device in the chain due to the resulting low equivalent parallel resistance.\n"
+		(exclude_from_sim no)
+		(at 47.625 144.145 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.1524)
+				(bold yes)
+				(color 145 194 119 1)
+			)
+			(justify left top)
+		)
+		(uuid "82315c2d-82a8-4582-8bf5-920a4aa2e302")
+	)
 	(text "TO CHANGE"
 		(exclude_from_sim no)
 		(at 170.815 78.105 0)
@@ -4567,16 +4622,17 @@
 		)
 		(uuid "876d053c-4927-4527-ad64-b2d3ca902702")
 	)
-	(text "RISKY"
+	(text "Note 1*"
 		(exclude_from_sim no)
-		(at 252.095 118.11 0)
+		(at 249.682 117.348 0)
 		(effects
 			(font
 				(size 0.762 0.762)
 				(thickness 0.1524)
 				(bold yes)
-				(color 255 133 141 1)
+				(color 145 194 119 1)
 			)
+			(justify left top)
 		)
 		(uuid "89b5cbce-d60e-4034-a768-89bdfff6d003")
 	)
