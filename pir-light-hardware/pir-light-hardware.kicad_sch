@@ -8312,7 +8312,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "REST:R_1206_3216Metric"
 			(at 44.577 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -9904,7 +9904,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123F"
+		(property "Footprint" "REST:D_SOD-123F"
 			(at 161.62 104.775 0)
 			(hide yes)
 			(show_name no)
@@ -11337,7 +11337,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AS312:AS312-NEW"
 			(at 146.05 52.705 0)
 			(hide yes)
 			(show_name no)
@@ -12569,7 +12569,7 @@
 		(fields_autoplaced yes)
 		(uuid "9e591977-4b56-4b10-a842-f1d325118877")
 		(property "Reference" "D4"
-			(at 258.318 113.0299 90)
+			(at 257.81 113.0299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12580,7 +12580,7 @@
 			)
 		)
 		(property "Value" "ZMM5V1"
-			(at 258.318 115.5699 90)
+			(at 257.81 115.5699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12590,7 +12590,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_MiniMELF"
+		(property "Footprint" "REST:D_MiniMELF"
 			(at 250.825 114.3 0)
 			(hide yes)
 			(show_name no)
