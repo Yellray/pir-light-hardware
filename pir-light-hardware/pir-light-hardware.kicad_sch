@@ -7507,7 +7507,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "09c448f7-e73a-4328-840c-151be1f5e116")
-		(property "Reference" "C12"
+		(property "Reference" "C7"
 			(at 255.27 66.675 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7529,7 +7529,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "REST:CP_Elec_4x5.4"
+		(property "Footprint" "REST:CP_EIA-3528-12_Kemet-T"
 			(at 252.73 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -7571,7 +7571,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "C12")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -7665,7 +7665,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0bd082ec-e1ea-4f31-a413-185bae576b6f")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR035"
 			(at 52.705 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -7725,7 +7725,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR032")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -7995,7 +7995,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0d31572b-e7b5-4b57-8fe4-6bcbf2e3edb8")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 236.22 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8119,7 +8119,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -8136,7 +8136,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0fd97ba4-07b8-42f7-97a5-c2dd44021f11")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR040"
 			(at 121.285 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -8196,7 +8196,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR037")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -8213,7 +8213,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "129797e3-9416-4191-8436-f222b97bddb7")
-		(property "Reference" "C8"
+		(property "Reference" "C9"
 			(at 41.91 83.185 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8275,7 +8275,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "C8")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -8452,7 +8452,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1bd4a783-2b28-46b7-89bb-402016ec59c3")
-		(property "Reference" "R10"
+		(property "Reference" "R9"
 			(at 201.295 94.615 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8516,7 +8516,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "R10")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -8533,7 +8533,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1ddb2f74-6f87-4252-99f1-a2bea323e549")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR042"
 			(at 144.145 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -8593,7 +8593,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR039")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -8610,7 +8610,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1f95cc2a-6972-4675-ae20-3774488ec681")
-		(property "Reference" "R16"
+		(property "Reference" "R13"
 			(at 123.19 108.585 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8674,7 +8674,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "R16")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -8772,7 +8772,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2b884a06-9648-4f34-9c42-055efa4b0af3")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR030"
 			(at 199.39 93.345 0)
 			(hide yes)
 			(show_name no)
@@ -8832,7 +8832,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR028")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -8849,7 +8849,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2cf755af-4969-4174-9da3-17c9a195e80f")
-		(property "Reference" "C5"
+		(property "Reference" "C4"
 			(at 184.785 66.04 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8913,7 +8913,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "C5")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -8930,7 +8930,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2cfad115-9d05-4ce0-b7c5-07c83b363020")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR036"
 			(at 71.755 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -8990,7 +8990,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR033")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -9007,7 +9007,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "309e866e-6461-4eff-bdfb-35a428acd660")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR019"
 			(at 182.245 79.248 0)
 			(hide yes)
 			(show_name no)
@@ -9067,95 +9067,8 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR017")
+					(reference "#PWR019")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ZH-CONNECTOR:ZH1.5-3")
-		(at 66.675 47.625 0)
-		(unit 2)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "33dcf422-59da-491f-a861-442b7a143894")
-		(property "Reference" "J1"
-			(at 71.1211 46.5949 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ZH1.5-3"
-			(at 71.1211 48.4999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "ZH-CONNECTOR:ZH1.5-3"
-			(at 66.675 47.625 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 66.675 47.625 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 66.675 47.625 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "90c43f05-b0ac-4f98-8e23-7c12f112f31c")
-		)
-		(pin "4"
-			(uuid "f0f1d8d2-2a26-45b5-8743-e163c997a80a")
-		)
-		(pin "3"
-			(uuid "b5d0ab2b-dfd3-4dce-8847-b81a4cb0a4b5")
-		)
-		(pin "2"
-			(uuid "79b1ec36-ceee-47d8-8af8-47951b067de8")
-		)
-		(instances
-			(project "pir-light-hardware"
-				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "J1")
-					(unit 2)
 				)
 			)
 		)
@@ -9171,7 +9084,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "359ba56c-5245-4978-bcd6-2b438a3bcf8b")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR017"
 			(at 252.73 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -9231,7 +9144,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR042")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -9329,7 +9242,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3af168e8-9e33-4c95-829b-514e576d9b5b")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR034"
 			(at 242.57 121.285 0)
 			(hide yes)
 			(show_name no)
@@ -9389,7 +9302,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR031")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -9483,7 +9396,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3bf2bce4-0fd7-4977-915f-83ff88c71af1")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR015"
 			(at 252.73 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -9543,7 +9456,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR040")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -9637,7 +9550,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3e0729ee-25bf-4196-b3fe-a17eb5f4b167")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR021"
 			(at 210.185 79.248 0)
 			(hide yes)
 			(show_name no)
@@ -9697,95 +9610,8 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR019")
+					(reference "#PWR021")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ZH-CONNECTOR:ZH1.5-3")
-		(at 90.17 47.625 0)
-		(unit 2)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3ee5ac9f-01b8-4930-838d-5a2730498a77")
-		(property "Reference" "J2"
-			(at 94.6161 46.5949 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ZH1.5-3"
-			(at 94.6161 48.4999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "ZH-CONNECTOR:ZH1.5-3"
-			(at 90.17 47.625 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 90.17 47.625 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 90.17 47.625 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "90c43f05-b0ac-4f98-8e23-7c12f112f31d")
-		)
-		(pin "4"
-			(uuid "f0f1d8d2-2a26-45b5-8743-e163c997a80b")
-		)
-		(pin "3"
-			(uuid "b5d0ab2b-dfd3-4dce-8847-b81a4cb0a4b6")
-		)
-		(pin "2"
-			(uuid "c5d85771-ea16-4c94-aec6-eeb94856b0a7")
-		)
-		(instances
-			(project "pir-light-hardware"
-				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "J2")
-					(unit 2)
 				)
 			)
 		)
@@ -9882,7 +9708,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f05031d-3be4-4e6e-885d-1783261c7c62")
-		(property "Reference" "D2"
+		(property "Reference" "D1"
 			(at 257.81 90.805 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10008,7 +9834,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "D2")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -10025,7 +9851,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4377c442-83ca-4e54-b93e-8565e717d977")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR027"
 			(at 100.965 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -10085,7 +9911,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR026")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -10102,7 +9928,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "453e9fb0-b6d5-4044-b066-a61e120eb301")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR039"
 			(at 109.855 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -10162,8 +9988,95 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR036")
+					(reference "#PWR039")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ZH-CONNECTOR:ZH1.5-3")
+		(at 66.675 52.07 0)
+		(unit 2)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "458e7c98-500a-4643-99ae-6495a6276e6b")
+		(property "Reference" "J1"
+			(at 71.1211 51.0399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ZH1.5-3"
+			(at 71.1211 52.9449 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ZH-CONNECTOR:ZH1.5-3"
+			(at 66.675 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.675 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 66.675 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "90c43f05-b0ac-4f98-8e23-7c12f112f31c")
+		)
+		(pin "4"
+			(uuid "f0f1d8d2-2a26-45b5-8743-e163c997a80a")
+		)
+		(pin "3"
+			(uuid "b5d0ab2b-dfd3-4dce-8847-b81a4cb0a4b5")
+		)
+		(pin "2"
+			(uuid "53733e43-f555-41fa-8b13-0b1753118b8d")
+		)
+		(instances
+			(project "pir-light-hardware"
+				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
+					(reference "J1")
+					(unit 2)
 				)
 			)
 		)
@@ -10259,7 +10172,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "47001b5d-172c-49e4-88cd-ce2326351739")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR028"
 			(at 31.115 90.805 0)
 			(hide yes)
 			(show_name no)
@@ -10319,7 +10232,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR027")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -10590,7 +10503,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4ab885f4-143b-4282-9cc4-45cba6bf8edc")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR031"
 			(at 255.27 103.505 0)
 			(hide yes)
 			(show_name no)
@@ -10650,7 +10563,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR044")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -11005,7 +10918,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5a38404e-a578-426e-82d4-288c42a1b388")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR026"
 			(at 77.47 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -11065,7 +10978,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR025")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -11159,7 +11072,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "609d91d5-e756-4c0f-b260-2de2daa7eb2e")
-		(property "Reference" "R15"
+		(property "Reference" "R12"
 			(at 96.52 108.585 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11223,7 +11136,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "R15")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -11436,7 +11349,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "69a4af05-f247-46e7-aac0-9a3bcd596ec7")
-		(property "Reference" "R9"
+		(property "Reference" "R8"
 			(at 107.315 85.725 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11498,7 +11411,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "R9")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -11690,7 +11603,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6fb4be05-9d15-4cd3-8891-2a3b6130bd0e")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR022"
 			(at 226.06 79.248 0)
 			(hide yes)
 			(show_name no)
@@ -11750,7 +11663,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR020")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -11767,7 +11680,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71b25213-70ad-46c5-b0ae-6ad26c27b6c2")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR016"
 			(at 31.115 70.485 0)
 			(hide yes)
 			(show_name no)
@@ -11827,95 +11740,8 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR015")
+					(reference "#PWR016")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ZH-CONNECTOR:ZH1.5-3")
-		(at 66.675 52.07 0)
-		(unit 3)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "77fcfa8d-c889-4894-a9fa-215a77d87cf6")
-		(property "Reference" "J1"
-			(at 71.1211 51.0399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ZH1.5-3"
-			(at 71.1211 52.9449 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "ZH-CONNECTOR:ZH1.5-3"
-			(at 66.675 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 66.675 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 66.675 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "90c43f05-b0ac-4f98-8e23-7c12f112f31e")
-		)
-		(pin "4"
-			(uuid "f0f1d8d2-2a26-45b5-8743-e163c997a80c")
-		)
-		(pin "3"
-			(uuid "4c964d27-d201-4fa6-bffe-bbbfafd3262c")
-		)
-		(pin "2"
-			(uuid "c5d85771-ea16-4c94-aec6-eeb94856b0a8")
-		)
-		(instances
-			(project "pir-light-hardware"
-				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "J1")
-					(unit 3)
 				)
 			)
 		)
@@ -12000,6 +11826,93 @@
 		)
 	)
 	(symbol
+		(lib_id "ZH-CONNECTOR:ZH1.5-3")
+		(at 90.17 52.07 0)
+		(unit 2)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7bea8904-e366-4f49-95ef-651b17296a5a")
+		(property "Reference" "J2"
+			(at 94.6161 51.0399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ZH1.5-3"
+			(at 94.6161 52.9449 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ZH-CONNECTOR:ZH1.5-3"
+			(at 90.17 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 90.17 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "90c43f05-b0ac-4f98-8e23-7c12f112f31d")
+		)
+		(pin "4"
+			(uuid "f0f1d8d2-2a26-45b5-8743-e163c997a80b")
+		)
+		(pin "3"
+			(uuid "b5d0ab2b-dfd3-4dce-8847-b81a4cb0a4b6")
+		)
+		(pin "2"
+			(uuid "c71c4ee5-e870-4910-95fa-c60b8144aace")
+		)
+		(instances
+			(project "pir-light-hardware"
+				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
+					(reference "J2")
+					(unit 2)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 31.115 107.315 0)
 		(unit 1)
@@ -12010,7 +11923,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "82c39572-38d4-4a58-b534-9053f1e8cd09")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR033"
 			(at 31.115 111.125 0)
 			(hide yes)
 			(show_name no)
@@ -12070,7 +11983,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR030")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -12087,7 +12000,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8dcc73fb-9c4c-4eaf-8002-41d2493d092e")
-		(property "Reference" "C7"
+		(property "Reference" "C6"
 			(at 240.665 65.913 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12151,7 +12064,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "C7")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -12168,7 +12081,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "933331be-a904-4397-8006-a49df7275cfd")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR038"
 			(at 94.615 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -12228,7 +12141,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR035")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -12245,7 +12158,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "940cb1bf-7ab7-4ae9-b5ff-8db4d2e787e9")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR037"
 			(at 83.185 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -12305,7 +12218,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR034")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -12409,7 +12322,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9ac988bb-43cc-4bb4-8c3d-953152962ba6")
-		(property "Reference" "C6"
+		(property "Reference" "C5"
 			(at 212.725 65.913 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12473,7 +12386,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "C6")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -12568,7 +12481,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e591977-4b56-4b10-a842-f1d325118877")
-		(property "Reference" "D4"
+		(property "Reference" "D3"
 			(at 257.81 113.0299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12632,7 +12545,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "D4")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -12649,7 +12562,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a330065d-dd45-4e7e-841b-ef4428ee64cb")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR023"
 			(at 238.125 79.248 0)
 			(hide yes)
 			(show_name no)
@@ -12709,7 +12622,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR021")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -12726,7 +12639,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a6925408-795b-447f-9bec-c4d6c637bf84")
-		(property "Reference" "C9"
+		(property "Reference" "C10"
 			(at 41.91 103.505 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12788,7 +12701,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "C9")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -12805,7 +12718,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b1140ff9-192c-4406-910e-794911dd042a")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR020"
 			(at 198.12 79.248 0)
 			(hide yes)
 			(show_name no)
@@ -12865,7 +12778,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR018")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -12959,7 +12872,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b2cb6189-1ac0-466c-93c3-f4bbd6988fb3")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR024"
 			(at 172.72 79.375 0)
 			(hide yes)
 			(show_name no)
@@ -13019,7 +12932,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR022")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -13183,6 +13096,93 @@
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
 					(reference "R6")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ZH-CONNECTOR:ZH1.5-3")
+		(at 66.675 47.625 0)
+		(unit 3)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bf6aa9ae-f9ae-402c-b535-b17454002e71")
+		(property "Reference" "J1"
+			(at 71.1211 46.5949 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ZH1.5-3"
+			(at 71.1211 48.4999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ZH-CONNECTOR:ZH1.5-3"
+			(at 66.675 47.625 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.675 47.625 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 66.675 47.625 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "90c43f05-b0ac-4f98-8e23-7c12f112f31e")
+		)
+		(pin "4"
+			(uuid "f0f1d8d2-2a26-45b5-8743-e163c997a80c")
+		)
+		(pin "3"
+			(uuid "de458a2f-b29a-4b23-97fd-d3173cdfc559")
+		)
+		(pin "2"
+			(uuid "c5d85771-ea16-4c94-aec6-eeb94856b0a8")
+		)
+		(instances
+			(project "pir-light-hardware"
+				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
+					(reference "J1")
+					(unit 3)
 				)
 			)
 		)
@@ -13433,7 +13433,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d5987011-d620-4cad-b4a4-0a51dd7e759c")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR041"
 			(at 132.715 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -13493,7 +13493,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR038")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -13510,7 +13510,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d7c35f80-43c5-47c8-b5ac-aee12c0110a1")
-		(property "Reference" "C10"
+		(property "Reference" "C11"
 			(at 85.725 109.22 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13574,7 +13574,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "C10")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -13675,7 +13675,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d94fb5a9-9cc5-47d0-b635-7a24f9fad42e")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR018"
 			(at 161.29 79.248 0)
 			(hide yes)
 			(show_name no)
@@ -13735,7 +13735,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR016")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -13829,7 +13829,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "da7b7965-0cfc-4172-976b-6b4eba6e750a")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR032"
 			(at 52.705 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -13889,7 +13889,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR029")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -14081,7 +14081,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dbcafc84-2cfe-46dd-85b4-000f96a75f93")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR025"
 			(at 52.705 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -14141,7 +14141,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR023")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -14238,7 +14238,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dc8f68d8-c25d-49c3-8861-029cc6b52118")
-		(property "Reference" "R12"
+		(property "Reference" "R10"
 			(at 102.235 94.615 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14300,7 +14300,94 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "R12")
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ZH-CONNECTOR:ZH1.5-3")
+		(at 90.17 47.625 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ddf537a3-3631-4442-8969-c89b21b572b1")
+		(property "Reference" "J2"
+			(at 94.6161 46.5949 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ZH1.5-3"
+			(at 94.6161 48.4999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ZH-CONNECTOR:ZH1.5-3"
+			(at 90.17 47.625 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 47.625 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 90.17 47.625 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2b2dfa49-eabf-41ae-afe8-aecd269d4664")
+		)
+		(pin "4"
+			(uuid "f0f1d8d2-2a26-45b5-8743-e163c997a80e")
+		)
+		(pin "3"
+			(uuid "b5d0ab2b-dfd3-4dce-8847-b81a4cb0a4b9")
+		)
+		(pin "2"
+			(uuid "c5d85771-ea16-4c94-aec6-eeb94856b0ab")
+		)
+		(instances
+			(project "pir-light-hardware"
+				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -14395,7 +14482,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e1d0db98-cae0-4143-98a2-836e601ac78d")
-		(property "Reference" "Q1"
+		(property "Reference" "Q4"
 			(at 60.96 108.585 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14522,7 +14609,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "Q1")
+					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -14539,7 +14626,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e4d2ef75-91f6-478a-a62f-239f0bde5350")
-		(property "Reference" "R14"
+		(property "Reference" "R11"
 			(at 244.475 106.045 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14603,7 +14690,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "R14")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -14865,7 +14952,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e8dcba01-9055-40a4-aa0d-9c3868f5925f")
-		(property "Reference" "C11"
+		(property "Reference" "C12"
 			(at 135.255 108.839 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14929,94 +15016,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "C11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ZH-CONNECTOR:ZH1.5-3")
-		(at 90.17 52.07 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "eb300b7b-fb62-439d-a4a0-fa10706628a1")
-		(property "Reference" "J2"
-			(at 94.6161 51.0399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ZH1.5-3"
-			(at 94.6161 52.9449 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "ZH-CONNECTOR:ZH1.5-3"
-			(at 90.17 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 90.17 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 90.17 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "90c43f05-b0ac-4f98-8e23-7c12f112f321")
-		)
-		(pin "4"
-			(uuid "f0f1d8d2-2a26-45b5-8743-e163c997a80e")
-		)
-		(pin "3"
-			(uuid "b5d0ab2b-dfd3-4dce-8847-b81a4cb0a4b9")
-		)
-		(pin "2"
-			(uuid "c5d85771-ea16-4c94-aec6-eeb94856b0ab")
-		)
-		(instances
-			(project "pir-light-hardware"
-				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "J2")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -15033,7 +15033,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec4a8463-191b-4abb-97b8-6bf42e15606e")
-		(property "Reference" "Q3"
+		(property "Reference" "Q1"
 			(at 80.645 88.265 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15162,7 +15162,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "Q3")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -15180,7 +15180,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ee925ece-abf1-4c73-96bd-8aee091984ea")
-		(property "Reference" "Q7"
+		(property "Reference" "Q3"
 			(at 196.85 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15309,7 +15309,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "Q7")
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -15326,7 +15326,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f0bcffd4-885d-4459-8a00-43681a6cfbbf")
-		(property "Reference" "C4"
+		(property "Reference" "C8"
 			(at 41.91 62.865 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15388,7 +15388,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "C4")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -15405,7 +15405,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f74ef5b0-d5eb-4f81-9350-c6584268d932")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR029"
 			(at 255.27 90.805 0)
 			(hide yes)
 			(show_name no)
@@ -15465,7 +15465,7 @@
 		(instances
 			(project "pir-light-hardware"
 				(path "/2adb9c99-9187-4750-a82d-5fddf415ae5e"
-					(reference "#PWR041")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)

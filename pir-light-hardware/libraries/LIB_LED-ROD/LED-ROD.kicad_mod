@@ -7,7 +7,7 @@
 		(at 0 -1.2 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "5283623a-7135-406f-9829-f4ddc8a1f328")
+		(uuid "44197b47-b94d-4dc6-80bf-92943dd28e07")
 		(effects
 			(font
 				(size 0.6 0.6)
@@ -22,7 +22,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "e497c66e-a05d-4dc0-8291-eaff481782f8")
+		(uuid "4502fca0-19e2-424f-b622-4657a6dec6e3")
 		(effects
 			(font
 				(size 1 1)
@@ -35,7 +35,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "a2c2d9df-8c20-40df-ae82-e21b62378983")
+		(uuid "e8e632ea-d0fb-4bcb-93d5-a27024e8c196")
 		(effects
 			(font
 				(size 1 1)
@@ -48,7 +48,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "46e2a9b5-f6b7-4f1f-99e1-df95b92ea1f1")
+		(uuid "d4cd6070-3486-4357-8060-c8ee67601ed9")
 		(effects
 			(font
 				(size 1 1)
@@ -59,24 +59,24 @@
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
-		(start -10.1 -0.35)
-		(end -10.1 -0.85)
+		(start -9.6 0.25)
+		(end -9.6 -0.25)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "e5c06c5c-dd52-418f-9467-b38dd45dc219")
+		(uuid "df009ed7-3dae-4ff7-af27-71ee2febcf40")
 	)
 	(fp_line
-		(start -9.85 -0.6)
-		(end -10.35 -0.6)
+		(start -9.35 0)
+		(end -9.85 0)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "77bcdf5d-0586-4164-9b25-66529ee467fd")
+		(uuid "a440a319-a22d-4551-b5f1-f9cbb5c4551d")
 	)
 	(fp_line
 		(start -7.5 -0.6)
@@ -86,7 +86,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "6b8e411a-c762-4660-a85f-531303ec7041")
+		(uuid "f9f01d15-e485-46f1-8f25-504ebbe49f43")
 	)
 	(fp_line
 		(start 7.5 0.6)
@@ -96,7 +96,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "d211b592-c2ba-48da-bf63-47a0adf0b7ea")
+		(uuid "c998083a-410c-45d4-b8fd-0c845a9eaac5")
 	)
 	(fp_rect
 		(start -9.6 -1.1)
@@ -107,13 +107,13 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "a7da44f0-7738-4d70-93f6-044f8240b762")
+		(uuid "7a019581-8d04-4e9e-b2f3-7ae111933c2b")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "c18c2639-131d-43e6-ad97-90db41e03abd")
+		(uuid "d7216cbf-eee6-4440-9e3a-e4790db39cab")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -126,13 +126,13 @@
 		(at -8.5 0)
 		(size 1.2 1.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "2f269a91-14ee-4edd-bb4e-1d6290e2b785")
+		(uuid "0becc615-828f-4e3f-b07f-6409c010df7f")
 	)
 	(pad "2" smd circle
 		(at 8.5 0)
 		(size 1.2 1.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "2796681c-5391-4c36-8579-f813bf0a8f84")
+		(uuid "aa84258e-559d-4f70-9bce-417e7a658548")
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/libraries/LIB_LED-ROD/led-rod.step"
